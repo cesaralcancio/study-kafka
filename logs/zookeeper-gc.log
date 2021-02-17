@@ -1,0 +1,29 @@
+[2021-02-16T17:29:41.871+0600][gc,heap] Heap region size: 1M
+[2021-02-16T17:29:41.876+0600][gc     ] Using G1
+[2021-02-16T17:29:41.876+0600][gc,heap,coops] Heap address: 0x00000007e0000000, size: 512 MB, Compressed Oops mode: Zero based, Oop shift amount: 3
+[2021-02-16T17:29:59.750+0600][gc,start     ] GC(0) Pause Young (Normal) (G1 Evacuation Pause)
+[2021-02-16T17:29:59.751+0600][gc,task      ] GC(0) Using 8 workers of 8 for evacuation
+[2021-02-16T17:29:59.767+0600][gc,phases    ] GC(0)   Pre Evacuate Collection Set: 0.1ms
+[2021-02-16T17:29:59.767+0600][gc,phases    ] GC(0)   Evacuate Collection Set: 14.1ms
+[2021-02-16T17:29:59.767+0600][gc,phases    ] GC(0)   Post Evacuate Collection Set: 0.9ms
+[2021-02-16T17:29:59.767+0600][gc,phases    ] GC(0)   Other: 1.8ms
+[2021-02-16T17:29:59.767+0600][gc,heap      ] GC(0) Eden regions: 25->0(21)
+[2021-02-16T17:29:59.767+0600][gc,heap      ] GC(0) Survivor regions: 0->4(4)
+[2021-02-16T17:29:59.767+0600][gc,heap      ] GC(0) Old regions: 0->2
+[2021-02-16T17:29:59.767+0600][gc,heap      ] GC(0) Humongous regions: 0->0
+[2021-02-16T17:29:59.767+0600][gc,metaspace ] GC(0) Metaspace: 15241K->15241K(1062912K)
+[2021-02-16T17:29:59.767+0600][gc           ] GC(0) Pause Young (Normal) (G1 Evacuation Pause) 25M->5M(512M) 17.173ms
+[2021-02-16T17:29:59.767+0600][gc,cpu       ] GC(0) User=0.05s Sys=0.02s Real=0.01s
+[2021-02-16T18:34:58.910+0600][gc,start     ] GC(1) Pause Young (Normal) (G1 Evacuation Pause)
+[2021-02-16T18:34:58.916+0600][gc,task      ] GC(1) Using 8 workers of 8 for evacuation
+[2021-02-16T18:34:58.924+0600][gc,phases    ] GC(1)   Pre Evacuate Collection Set: 0.0ms
+[2021-02-16T18:34:58.924+0600][gc,phases    ] GC(1)   Evacuate Collection Set: 7.8ms
+[2021-02-16T18:34:58.924+0600][gc,phases    ] GC(1)   Post Evacuate Collection Set: 0.3ms
+[2021-02-16T18:34:58.924+0600][gc,phases    ] GC(1)   Other: 5.7ms
+[2021-02-16T18:34:58.924+0600][gc,heap      ] GC(1) Eden regions: 21->0(24)
+[2021-02-16T18:34:58.924+0600][gc,heap      ] GC(1) Survivor regions: 4->1(4)
+[2021-02-16T18:34:58.924+0600][gc,heap      ] GC(1) Old regions: 2->6
+[2021-02-16T18:34:58.924+0600][gc,heap      ] GC(1) Humongous regions: 0->0
+[2021-02-16T18:34:58.924+0600][gc,metaspace ] GC(1) Metaspace: 16115K->16115K(1064960K)
+[2021-02-16T18:34:58.924+0600][gc           ] GC(1) Pause Young (Normal) (G1 Evacuation Pause) 26M->6M(512M) 13.969ms
+[2021-02-16T18:34:58.924+0600][gc,cpu       ] GC(1) User=0.02s Sys=0.03s Real=0.01s
