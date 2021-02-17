@@ -1,6 +1,6 @@
 0
 23
-__consumer_offsets 29 3806
+__consumer_offsets 29 3854
 ECOMMERCE_NEW_ORDER 0 0
 __consumer_offsets 47 0
 __consumer_offsets 20 0
@@ -9,7 +9,7 @@ __consumer_offsets 26 0
 __consumer_offsets 35 0
 __consumer_offsets 41 0
 ECOMMERCE_ORDER_APPROVED 0 0
-__consumer_offsets 8 3790
+__consumer_offsets 8 3838
 ECOMMERCE_SEND_EMAIL 1 3
 __consumer_offsets 23 0
 ECOMMERCE_NEW_ORDER 1 3
